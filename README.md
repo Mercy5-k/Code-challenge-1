@@ -1,7 +1,7 @@
 Week 1 Code Challenge
 Welcome to the Week 1 Code Challenge repository! This project includes three beginner-friendly JavaScript mini-apps designed to help you practice basic logic, user input, and conditional statements.
 
-Challenges Included
+Challenges Included 
 Chai Bora Ingredient Calculator
 Calculate how much tea, water, milk, sugar, and spices you need to make delicious Kenyan chai based on the number of cups.
 
